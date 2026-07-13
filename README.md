@@ -1,8 +1,8 @@
 # SystemDelivery
 
-🚚 Aplicación de escritorio desarrollada en C# (.NET 8) con Windows Forms que gestiona clientes, productos, pedidos, repartidores y rutas para un sistema de delivery. 🛵
+🚚 Aplicación de escritorio desarrollada en C# (.NET 8) con Windows Forms que gestiona clientes,productos, pedidos, repartidores y rutas para un sistema de delivery. 🛵
 
-![Vista previa de SystemDelivery](readme.webp)
+![Vista previa de SystemDelivery](README.webp)
 
 ## Estructura del Proyecto
 
