@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.ide.*
+
+# VS Code
+.vscode/
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+out/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+
+# MonoDevelop
+*.userprefs
+
+# Visual Studio profiler
+*.vsp
+*.vspx
+
+# Evitar subir paquetes restaurables
+project.lock.json
