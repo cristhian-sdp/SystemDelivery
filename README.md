@@ -2,7 +2,7 @@
 
 🚚 Aplicación de escritorio desarrollada en C# (.NET 8) con Windows Forms que gestiona clientes, productos, pedidos, repartidores y rutas para un sistema de delivery. 🛵
 
-![Vista previa de EcoVida](readme.webp)
+![Vista previa de SystemDelivery](readme.webp)
 
 ## Estructura del Proyecto
 
